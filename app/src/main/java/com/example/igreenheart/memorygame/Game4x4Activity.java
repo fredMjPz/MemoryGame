@@ -35,7 +35,7 @@ public class Game4x4Activity extends AppCompatActivity implements View.OnClickLi
         int numColumns = gridLayout.getColumnCount();
         int numRows = gridLayout.getRowCount();
 
-        numberOfElements = numColumns * numRows;
+        numberOfElements = numColumns *  numRows;
 
         buttons = new MemoryButton[numberOfElements];
 
