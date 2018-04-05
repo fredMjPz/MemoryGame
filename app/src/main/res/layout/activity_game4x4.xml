@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/grid_layout_4x4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="4"
+    android:columnOrderPreserved="true"
+    android:paddingBottom="46dp"
+    android:paddingLeft="46dp"
+    android:paddingRight="46dp"
+    android:paddingTop="46dp"
+    android:rowCount="4"
+    tools:context="com.example.igreenheart.memorygame.Game4x4Activity">
+
+</GridLayout>
